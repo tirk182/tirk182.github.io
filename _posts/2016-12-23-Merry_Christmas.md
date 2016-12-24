@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Merry Christmas!!"
+title:  "Merry Christmas to all!"
 date:   2016-12-23 20:39:07 -0400
 categories: jekyll update
 ---
