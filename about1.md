@@ -3,7 +3,7 @@
   <head>
     <title>About Hank Quinlan</title>
     
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/css/main1.css">
   
   </head>
 
