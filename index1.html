@@ -23,13 +23,13 @@ title: Home Poole
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Olderer</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+    <span class="pagination-item older">Olderer</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="{{ site.baseurl }}">Newerer</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newerer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
