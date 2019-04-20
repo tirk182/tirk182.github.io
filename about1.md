@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>About Hank Quinlan</title>
+    <title>About Bob A.</title>
     
     <link rel="stylesheet" type="text/css" href="/css/main1.css">
   
@@ -24,7 +24,7 @@
 			<p>You can optionally insert a brief bio here. You went to this school, you studied that, you now work in this field with research interests in that subject. At your previous position at this place, you worked on this or that. You can list some of your significant accomplishments, awards, or recognition here as well. You live in this city with these animals and people. In your free time you like X, Y, and Z.</p>
 
 			<ul class="contacts">
-				<li><a href="#">@TwitterHandle</a></li>
+				<li><a href="#">@ba2471</a></li>
 				<li><a href="#">Your Departmental Webpage</a></li>
 				<li><a href="#">Another site you want to link to</a></li>
 				</ul>
@@ -35,8 +35,8 @@
   
   <footer>
    <ul>
-   <li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-   <li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+   <li><a href="mailto:ba2471@gmail.com">email</a></li>
+   <li><a href="https://github.com/tirk182">github.com/tirk182</a></li>
    </ul>
   </footer>
   </body>
